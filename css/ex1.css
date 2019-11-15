@@ -1,0 +1,31 @@
+1{
+  color: aliceblue;  
+ text-align:center;
+ background-color:black
+}
+
+body{
+     background-image:url("../images/images.jfif");
+}
+
+h2{
+    color:chocolate;
+     text-align:center;
+    background-color:aquamarine
+}
+
+
+h1{
+     color:aqua;  
+ text-align:center;
+ background-color:crimson
+}
+table{
+ background-color:darkseagreen   
+}
+
+ol{
+   background-image:url("../images/images7.jfif"); 
+}
+    
+
