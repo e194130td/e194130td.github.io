@@ -1,0 +1,65 @@
+div.title{
+   width:1000px;
+    height:40px;
+    background-color:aquamarine;
+    text-align:left;
+    font-size:30px;
+    margin-bottom: 20px;   
+}
+
+div.menu{
+     width: 250px;
+    height:320px;
+     background-color:black;
+     display: inline-block;   
+    vertical-align: top;
+}
+
+div.menu1{
+    width: 250px;
+    height:100px;
+    background-color:crimson;
+     text-align:center;
+    font-size:20px;
+    margin-bottom: 10px;  
+}
+
+div.menu2{
+    width: 250px;
+    height:100px;
+    background-color:crimson;
+    text-align:center;
+    font-size:20px;
+    margin-bottom: 20px;  
+}
+
+div.images{
+     display: inline-block;
+    vertical-align: top;
+    margin-left:  20px;  
+}
+
+div.images1{
+    width: 700px;
+    height:300px;
+    background-color:darkorchid;
+    text-align:center;
+    font-size:20px;
+}
+
+div.bun{
+    width: 700px;
+    height:20px;
+    background-color:darkolivegreen;
+    text-align:center;
+    font-size:15px;
+    margin-bottom: 20px;  
+}
+
+div.hutta{
+   width:1000px;
+   height:40px; 
+    background-color:dodgerblue;
+    text-align:right;
+    font-size:30px;    
+}
