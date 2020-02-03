@@ -1,0 +1,66 @@
+.title{
+    width:1000px;
+    height:40px;
+    background-image:url("../images/images2.jfif");
+    text-align:center;
+    padding-top: 20;
+    padding-bottom: 50;
+    margin:auto;
+    font-size:50px;
+    color:azure   
+}
+
+body{
+     background-image:url("../images/images3.jfif");
+}
+
+.oreteki{
+    text-align:center;
+}
+
+.menu1{
+    font-size: 30;
+    text-align:center;
+}
+
+.image1{
+    text-align:center;
+}
+
+.syosai{
+     text-align:center;
+     margin:auto;
+}
+
+.menu2{
+    width:900px;
+    height:350px; 
+    background-color:aquamarine;
+     background-color: transparent;
+    text-align:center;
+    margin:auto;
+    border : 20px solid green;
+}
+
+.mozi{
+    font-size:40px;
+    text-align:left;
+     margin-top: 20;
+     margin-left: 20
+}
+.line{
+    width:1000px;
+    height:2px;
+    background-color: floralwhite;
+    text-align:center;
+    margin:auto;
+    margin-top: 20;
+}
+
+.seisaku{
+     font-size:20px;
+      padding-top: 15px;
+      padding-left: 50px;
+      text-align:left;
+    
+}
